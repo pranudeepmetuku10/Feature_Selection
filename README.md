@@ -1,4 +1,4 @@
-# MLOps Lab 3: Feature Selection
+# Feature Selection
 
 This lab explores **feature selection techniques** on the **Breast Cancer Wisconsin Dataset** to identify the most relevant features for predicting whether a tumor is **malignant** or **benign**. Feature selection is a critical step in building efficient and interpretable machine learning models, especially when working with datasets that contain many variables.
 
